@@ -2,5 +2,6 @@ node_modules
 
 bundle.js
 external/dist
+multi-entry-points/dist
 
 .idea
