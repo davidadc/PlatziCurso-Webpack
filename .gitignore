@@ -4,5 +4,6 @@ bundle.js
 external/dist
 multi-entry-points/dist
 css-style-loader/dist
+plugins/dist
 
 .idea
