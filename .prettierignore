@@ -3,3 +3,4 @@ external/dist
 multi-entry-points/dist
 css-style-loader/dist
 plugins/dist
+webpack-dev-server/dist
